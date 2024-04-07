@@ -1,0 +1,32 @@
+#menu a {
+  font-size: 18px;
+  font-weight: bold;
+  color: #3f3f3f;
+}
+
+#menu button{
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Tamano imagenes*/
+.carousel-inner{
+max-height: 39rem;
+}
+
+@media(max-widht:768pc){
+  #intro{
+    width: 90% !important;
+  }
+
+}
+#bg-contacto{
+  position: relative;
+  top: -130px;
+}
+#section-contacto{
+  background-color: #00cba9;
+  min-height: 50px;
+  position: relative;
+
+}
